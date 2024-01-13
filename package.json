@@ -32,6 +32,7 @@
 	"type": "module",
 	"dependencies": {
 		"@codemirror/lang-javascript": "^6.2.1",
+		"acorn": "^8.11.3",
 		"svelte-codemirror-editor": "^1.2.0"
 	}
 }
